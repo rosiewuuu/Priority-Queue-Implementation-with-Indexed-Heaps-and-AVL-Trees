@@ -30,3 +30,23 @@
 *.exe
 *.out
 *.app
+
+# Eclipse-specific
+.cproject
+.project
+.settings/
+
+# C++ specific
+*.cxx
+
+# Other files and directories
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+*~
+
+# Build directories
+Debug/
+Release/
